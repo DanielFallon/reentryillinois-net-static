@@ -10,7 +10,4 @@ If you want services, you will have to work hard to make yourself attractive to 
 1. Counselors base their success on getting you into programming and keeping you out of trouble once you leave the institution.  Be honest with them about your past including your medical history and past services used.  They are looking to see if you are eligible for specific programming.
 1. Make contact with any outside programming that is based in your community. Most programs have trouble going to the prisons and so you may start in less desirable programs.  Begin there, do well, and you will later be eligible for better programs.
 
-
-
-
 [re-entry preparation manuals]: ./reentryguides.html
