@@ -8,6 +8,6 @@ function Script:ExtractHtmlFromFile ($FilePath) {
 }
 
 
-Get-ChildItem "$PSScriptRoot/oldhtml" | % {
-    ExtractHtmlFromFile $_.FullName | Out-File "$PSScriptRoot/markdown-contents/$($_.BaseName).md"
+Get-ChildItem -File "$PSScriptRoot/oldhtml" | % {
+    ExtractHtmlFromFile $_.FullName | %{$_ -replace "`r`n","`n" }|Out-File -NoNewline -encoding ASCII "$PSScriptRoot/markdown-contents/$($_.BaseName).md"
 }
