@@ -1,5 +1,3 @@
-http://www.reentryillinois.net/CNumbers.html
-
 # Re-Entry Issues for those with C-Numbers
 
 All persons currently sentenced in Illinois are given a fixed sentence.  This sentence includes the possibility of a "mandatory supervised release" commonly referred to as parole.
