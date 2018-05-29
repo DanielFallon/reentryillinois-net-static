@@ -1,0 +1,317 @@
+/* ____________________ #body overwrites ______________________________________________________________________________ */
+#body h1{}
+#body h2{}
+#body h3{}
+#body p{}
+#body a{color:#3071A2;}
+#body a:hover{}
+#body small{}
+#body form{}
+#body ul.navigation li{}
+#body{
+ 	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3948.gif);
+  	font-family:Trebuchet MS, Arial, Helvetica, sans-serif;  
+}
+/* ____________________ OuterContainer and Container CSS ______________________________________________________________________________ */
+#body #outerContainer{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3960.jpg);
+  	background-position:top center;
+	background-repeat:repeat-x;
+}
+#body #container{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/oc.jpg);
+	background-repeat:repeat-x;
+	margin:0 auto;
+	width:916px; 
+}
+/* ____________________ Header CSS ______________________________________________________________________________ */
+#body #header{
+	background-color:#0a58aa;
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/header.jpg);
+	background-position:top left;
+	background-repeat:no-repeat;  
+	color:#fff;
+  	margin:0 auto;
+	position:relative;
+  	min-height:67px;
+ 	padding:15px 15px 45px;
+	width:820px;
+}
+#body #header h1, #body #header h2, #body #header h3, #body #header p, #body #header a{color:#fff;} 
+#body #header .navigation-container{position:absolute; bottom:0; left:0; width:100%}
+#body #header ul.navigation{float:right}
+#body #header ul.navigation li{
+	float:left; 
+	margin:6px 10px 0 0;
+	min-height:30px;
+	min-width:30px;
+	text-align:center;
+	white-space:nowrap; 
+	_width:5%; 
+}
+#body #header ul.navigation li a{
+	background-color: #b5d5ff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#b5d5ff), to(549df9)); /* Saf4+, Chrome */
+  background-image: -webkit-linear-gradient(top, #b5d5ff, 549df9); /* Chrome 10+, Saf5.1+ */
+  background-image:    -moz-linear-gradient(top, #b5d5ff, 549df9); /* FF3.6 */
+  background-image:     -ms-linear-gradient(top, #b5d5ff, 549df9); /* IE10 */
+  background-image:      -o-linear-gradient(top, #b5d5ff, 549df9); /* Opera 11.10+ */
+  background-image:         linear-gradient(top, #b5d5ff, 549df9);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#b5d5ff', EndColorStr='549df9'); /* IE6–IE9 */
+	border:1px solid #0a65d1;
+	-moz-border-radius:7px; -webkit-border-radius:7px; border-radius:7px;
+  	color:#000;
+	display:block;
+	font-size:12px;
+	font-weight:bold;
+	line-height:2.6em;
+	padding:0 10px;
+	margin:0;
+	min-height:30px;
+	text-decoration:none;
+    text-transform:uppercase;
+}
+#body #header ul.navigation li a:hover, #body #header ul.navigation li a.selected{background:#d5e7ff}
+/* ____________________ Main / Content Area & Side bar CSS ______________________________________________________________________________ */
+#body #main{ 
+	margin:0 auto;
+	width:916px;
+}
+#body #content{
+  	width:560px;
+}
+#body #content ul.navigation li{
+	float:left;
+	height:28px; 
+	min-width:10px;
+	padding:0 5px 0 0;
+	text-align:center;
+	white-space:nowrap;
+	_width:10%; 
+}
+#body #content ul.navigation li.first a{
+	border-left:1px solid #CCC;
+	padding-left:5px;
+}
+#body #content ul.navigation li a{
+	border-right:1px solid #CCC;
+	font-weight:bold; 
+	padding-right:5px;
+}
+#body #sidebar{width:180px; }
+#body #sidebar ul.navigation{
+	clear:both;
+	margin-bottom:15px;
+}
+#body #sidebar ul.navigation li{border-bottom:1px solid #BABABA;}
+#body #sidebar ul.navigation li a{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/4002.gif);
+	background-position:7px 7px;
+    background-repeat:no-repeat;
+    color:#3071A2;
+	display:block;
+	font-size:12px;
+	font-weight:bold;
+	line-height:1.7em;
+	padding:4px 0 3px 32px;
+	text-decoration:none;
+    text-transform:uppercase;
+	width:148px;
+}
+#body #sidebar ul.navigation li a:hover, #body #sidebar ul.navigation li a.selected{
+	background-color:#c8e0fd;
+	text-decoration:none;
+}
+/* ____________________ Footer CSS ______________________________________________________________________________ */
+#body #footer{
+	margin:0 auto;
+  	min-height:20px;
+  	padding:10px 0;
+  	width:850px;
+} 
+#body #footer ul.navigation{padding-left:5px;}
+#body #footer ul.navigation li{
+	float:left;
+	margin:0;
+	min-width:10px; 
+	padding:2px 5px 2px 0;
+	text-align:center;
+	top:0; 
+	white-space:nowrap;
+	_width:5%;	 
+}
+#body #footer ul.navigation li.first a{
+	border-left:1px solid #CCC;
+	padding-left:5px;
+}
+#body #footer ul.navigation li a{
+	border-right:1px solid #CCC;
+	font-weight:bold;
+	padding-right:5px;
+}
+/* ____________________ Layout Specific CSS ______________________________________________________________________________ */
+/*----LAYOUT 1 Column----*/
+#body.layout1c #main{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3998.gif);
+	background-position:top center;
+  	background-repeat:repeat-y;
+  	padding-bottom:1px; 
+}
+#body.layout1c #content{
+	margin:0 auto; 
+	width:810px;
+}
+#body.layout1c #sidebar{
+	border-bottom:none;
+	margin:0 auto;
+	min-height:5px;
+	padding:10px 0 0;
+	width:810px;
+}
+#body.layout1c #sidebar ul.navigation{
+	background-color:#3071A2; 
+	margin:5px 0; 
+}
+#body.layout1c #sidebar ul.navigation li{
+	border-bottom:none;
+	float:left; 
+	margin:0 10px;
+	min-width:30px;
+	text-align:center;
+	white-space:nowrap; 
+	_width:5%; 
+}
+#body.layout1c #sidebar ul.navigation li a{
+	background:none;
+	color:#FFF;
+	display:block;
+	font-size:12px;
+	font-weight:bold;
+	height:22px; 
+	line-height:1.8em;
+	margin:3px 0;
+	padding:0 5px;
+	width:auto;
+}
+#body.layout1c #sidebar ul.navigation li a:hover{
+	background-color:#3F96D8;
+	text-decoration:none;
+}
+#body.layout1c #sidebar ul.navigation li a.selected{
+	background-color:#3F96D8;
+	text-decoration:none;
+}
+#body.layout1c #footer{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3999.gif);
+  	background-position:center top;
+	background-repeat:no-repeat;
+}
+/*----LAYOUT 2 Column Left----*/
+#body.layout2cl #main{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3967.gif);
+ 	background-position:top center;
+	background-repeat:repeat-y;
+}
+#body.layout2cl #content{
+	margin:10px 42px 0 0;
+    _margin:10px 21px 0 0;
+	padding:0 10px; 
+	width:600px;
+}
+#body.layout2cl #sidebar{
+     margin:10px 0 0 42px;
+     _margin:10px 0 0 21px;
+}
+#body.layout2cl #footer{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3968.gif);
+	background-position:center top; 
+  	background-repeat:no-repeat;
+}
+/*----LAYOUT 2 Column Right----*/
+#body.layout2cr #main{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3980.gif);
+	background-position:top center;
+  	background-repeat:repeat-y;
+}
+#body.layout2cr #content{
+	margin:10px 0 0 42px;
+    _margin:10px 0 0 21px; 
+	padding:0 10px;
+	width:600px;
+}
+#body.layout2cr #sidebar{
+	margin:10px 42px 0 0;
+    _margin:10px 21px 0 0;
+	min-height:400px;
+}
+#body.layout2cr #footer{
+	background-image:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/3979.gif);
+	background-position:center top; 
+  	background-repeat:no-repeat;
+}
+/* ____________________ Module Specific Styling ______________________________________________________________________________ */
+#body h1 a.addOnBasicLink{color:#000; font-size:20px; text-decoration:none; }
+#body h1 a.addOnBasicLink:hover{text-decoration:underline; }
+#body h3.addOnSectionHead{border-bottom:none;color:#000; text-transform:uppercase; } 
+#body .addOnButton{
+	background:#1F4A6B; 
+	border:solid 2px #2D6B9A; color:#fff; 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-weight:bold; 
+	text-align:center; 
+	text-decoration:none; 
+} 
+#body .addOnHeadline{}
+#body .addOnSubHead{}
+#body .addOnSubH3{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-weight:bold; 
+	font-size:14px; 
+	line-height:1.2em; 
+	text-transform:uppercase;
+}
+#body .addOnSubH4{}
+#body .addOnPlainText{ }
+#body .addOnBasicLink{color:#3071A2;}
+#body .addOnSmallText{ }
+#body .addOnBackground{background-color:#C8DAEC;}
+#body .addOnShadedText{background-color:#C8DAEC; }
+#body .addOnAccentText{background-color:#C8DAEC; }
+#body .addOnSectionHead{border-bottom:1px solid #999; }
+#body .addOnMiniNavBox{background-color:#C8DAEC; border:1px solid #94B6D9; }
+#body .addOnBorder{border:1px solid #999; } 
+#body .addOnBorderBottom{border-bottom:1px solid #999; } 
+#body .addOnBorderTop{border-top:1px solid #999;} 
+#body .addOnGradientTop{} 
+#body .addOnGradientBottom{}
+#body .addOnShadowBox{} 
+#body .addOnShadowBoxSmall{} 
+#body .addOnTableHeading{}
+#body .addOnTableHeadingBg{} 
+#body .addOnTableRowBg{background-color:#e8e8e8;}
+#body .addOnTableRowAltBg{background-color:#fff; }  
+#body .addOnTableColumnBg{background:#fff; } 
+#body .addOnTableColumnAltBg{ } 
+
+/* ____________________ mobile layout ______________________________________________________________________________ */
+@media screen and (max-device-width:480px), screen and (max-width:600px){
+/* adds mobile only background */
+#body.mobileLayout{background:url(http://lygo.com/ly/zeeblio/styles/worldly-blue/images/header.jpg) no-repeat #0a58aa}
+
+/* style for menu button at top right of page */
+#body.mobileLayout #mNavLink{background:#B5D5FF; color:#000; border:1px solid #0A65D1}
+
+/* styling for navigation menu to be placed at bottom of page */
+#body.mobileLayout .mobileNav ul{}
+#body.mobileLayout .mobileNav ul li a{background:#B5D5FF; color:#000}
+#body.mobileLayout .mobileNav ul li a:hover, #body.mobileLayout .mobileNav ul li a.selected{background:#D5E7FF; color:#000}
+#body.mobileLayout .mobileNav ul li.first a{}
+#body.mobileLayout .mobileNav ul li.last a{}
+
+/* mobile layout/content styling */
+#body.mobileLayout #header{padding-top:20px}
+#body.mobileLayout #main{background:#efefef}
+#body.mobileLayout #content{margin-bottom:15px}
+#body.mobileLayout #sidebar{margin-bottom:15px; padding-top:15px}
+#body.mobileLayout #footer{color:#fff}
+}
