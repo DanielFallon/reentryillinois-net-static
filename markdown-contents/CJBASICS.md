@@ -1,6 +1,5 @@
 # The Criminal Justice System Can Be Confusing
 
-
 If this is your first time involved in the criminal justice system and you are trying to navigate it for yourself or a family member, it can be confusing and daunting. It also has many players at many levels who do not communicate with each other.  Despite what it appears to be on television, police, courts, medical services, jails, and prisons are often unable to communicate with one another because of unique systemic constraints. Understanding the demands of these systems will equip you to successfully navigate a re-entry for you or a loved one.  Here are a series of papers to help you better understand this complex system. 
 
 1. [Understanding the System - Jails are not Prisons][Understanding the System]
