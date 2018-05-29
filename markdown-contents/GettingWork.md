@@ -1,19 +1,5 @@
 http://www.reentryillinois.net/GettingWork.html
-<H1 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 22px; COLOR: rgb(0,128,192); LINE-HEIGHT: 27px"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif">Getting a Job</SPAN></SPAN></H1>
-<P>&nbsp;</P>
-<P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><SPAN style="FONT-SIZE: 16px; COLOR: rgb(0,0,0)"><SPAN><SPAN style="FONT-SIZE: 14px; LINE-HEIGHT: 17px"><A href="employment.html"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG><SPAN class=WEBON_SIZE style="FONT-SIZE: 12px">Click here for Employment - Finding a Job</SPAN></STRONG></SPAN></A><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG></STRONG></SPAN></SPAN></SPAN></SPAN></SPAN><A href="education.html"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG><SPAN class=WEBON_SIZE style="FONT-SIZE: 12px"> </SPAN><BR></STRONG></SPAN></A></P>
-<P style="TEXT-ALIGN: center"><A href="education.html"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG>Click here for Education - Enrolling in&nbsp;Programs</STRONG></SPAN></A> <BR></P>
-<P style="TEXT-ALIGN: center"><BR></P><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><SPAN style="FONT-SIZE: 16px; COLOR: rgb(0,0,0)"><SPAN><SPAN style="FONT-SIZE: 14px; LINE-HEIGHT: 17px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG></STRONG></SPAN></SPAN></SPAN></SPAN></SPAN>
-<P><SPAN><SPAN style="FONT-SIZE: 10px; LINE-HEIGHT: 12px"><SPAN style="FONT-FAMILY: Arial"><SPAN style="COLOR: rgb(0,0,0)"><SPAN style="FONT-SIZE: 12px; LINE-HEIGHT: 15px"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">Research has shown a clear link between crime and work. Having a legitimate job lessens the chances of re-offending following release from prison. Also, the higher the wages, the less likely it is that returning prisoners will return to crime. However, studies also show that released prisoners confront a diminished prospect for stable employment and decent wages throughout their lifetimes. Job training and placement programs show promise in connecting former prisoners to work, thereby reducing their likelihood of further offending. Yet, fewer inmates are receiving in-prison vocational training than in the past and fewer still have access to transitional programs that help connect them to jobs in the community.</SPAN></SPAN></SPAN></SPAN><BR></SPAN></SPAN></P>
-<P></P>
-<P>&nbsp; <BR></P>
-<P></P>
-<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><SPAN style="FONT-SIZE: 16px; COLOR: rgb(0,0,0)"><SPAN><SPAN style="FONT-SIZE: 14px; LINE-HEIGHT: 17px">Although most prisoners held a job before their incarceration, they confront many barriers to employment such as low education levels, stigma, and lost time in the labor force, upon their return to the community. Thus, it is important to explore the role these factors play in the reintegration process. To the extent that these issues present serious barriers to transitioning prisoners, they also present serious risks?or at least lost opportunities?for the communities to which large numbers of prisoners return. The ability to find a stable and adequate source of income upon release from prison is an important factor in an individual?s transition from prison back to the community. Further, former prisoners? employment prospects have direct and important implications for their abilities to contribute to the viability and stability of their families and communities.</SPAN></SPAN></SPAN></SPAN><BR></P>
-<P></P>
-<P>&nbsp; <BR></P>
-<P></P>
-<P><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><SPAN style="FONT-SIZE: 16px; COLOR: rgb(0,0,0)"><SPAN><SPAN style="FONT-SIZE: 14px; LINE-HEIGHT: 17px">Some returning prisoners may decide to enroll in an educational program after their release. While education is not a priority in the immediate transition from prison to the community, it is very important in&nbsp;providing returning prisoners with the&nbsp;skills and knowledge&nbsp;they will need in order&nbsp;to obtain&nbsp;gainful employment in the future. </SPAN></SPAN></SPAN></SPAN><BR></P>
-<P></P>
-<P style="TEXT-ALIGN: center">&nbsp; <BR><BR></P>
-<P></P>
-<DIV class=clr></DIV>
+
+[Click here for Employment - Finding a Job]: about:employment.html
+[ ]: about:education.html
+[Click here for Education - Enrolling in&nbsp;Programs]: about:education.html

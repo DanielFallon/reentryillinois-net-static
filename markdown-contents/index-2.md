@@ -1,31 +1,21 @@
 http://www.reentryillinois.net/index-2.html
-<DIV id=media_image|155051 class=zblMedia contentEditable=false style="HEIGHT: 109px; WIDTH: 153px; FLOAT: left; TEXT-ALIGN: center; MARGIN: 0pt 12px 0pt 0pt" ly:comptype="media.image"><IMG style="HEIGHT: 100%; WIDTH: 100%; DISPLAY: inline" src="http://media.tripod.lycos.com:80/preview/2898032/1024x1024-155051.jpg"></DIV>
-<P></P>
-<P>&nbsp;</P>
-<P></P>
-<P><SPAN style="FONT-SIZE: 22px; FONT-WEIGHT: bold; COLOR: rgb(0,128,255); LINE-HEIGHT: 27px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">CSH Illinois Releases Community Planning Grants from Across the State.</SPAN></SPAN></P>
-<P></P>
-<P style="TEXT-ALIGN: left"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; TEXT-ALIGN: center; LINE-HEIGHT: 17px" target="_blank">Since October of 2008, 14 communities have been meeting to discuss the needs of their local communities for reentry housing and services as part of the <A href="http://documents.csh.org/documents/il/partners.pdf"><SPAN style="FONT-SIZE: 18px; LINE-HEIGHT: 22px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Re-Entry Planning Grant Initiative</SPAN></SPAN></SPAN></A> funded by the <A href="http://www.csh.org/" target=_blank><SPAN style="FONT-SIZE: 18px; LINE-HEIGHT: 22px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Corporation for Supportive Housing (CSH)</SPAN></SPAN></SPAN></A><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"> </SPAN>as part of the <A href="http://www.csh.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=4469" target=_blank><SPAN style="FONT-SIZE: 18px; LINE-HEIGHT: 22px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Illinois Returning Home Initiative</SPAN></SPAN></SPAN></A>. When <A href="http://www.chicagometropolis2020.org/"><SPAN style="FONT-SIZE: 18px; LINE-HEIGHT: 22px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Metropolis 2020</SPAN></SPAN></SPAN></A>&nbsp;convened the <A href="http://media.webon.lycos.com/1426770/519451.doc" target=_blank><SPAN style="FONT-SIZE: 18px; LINE-HEIGHT: 22px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Statewide Collaborative on Re-Entry</SPAN></SPAN></SPAN></A><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">,</SPAN> these communities assembled their most current recommendations for housing and programming. These reports were released September 30, 2009. Links to the Reports are below as well as a map of the communities in the reports. A <A href="http://media.webon.lycos.com/1426770/519452.ppt" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">PowerPoint presentation</SPAN></SPAN></SPAN></A> was also released summarizing the findings across repo<STRONG><STRONG></STRONG></STRONG>rts.</SPAN>&nbsp; Links to specific reports are provided below:<BR></P>
-<P></P>
-<DIV id=media_image|403939 class=zblMedia contentEditable=false style="HEIGHT: 392px; WIDTH: 247px; FLOAT: right; TEXT-ALIGN: center; MARGIN: 0pt 0pt 0pt 12px" ly:comptype="media.image"><IMG style="HEIGHT: 100%; WIDTH: 100%; DISPLAY: inline" src="http://media.tripod.lycos.com:80/preview/2898032/1024x1024-403939.jpg"></DIV>
-<P></P>
-<P></P>
-<UL style="FONT-SIZE: 12px">
-<LI><A href="http://media.webon.lycos.com/1426770/403951.doc" target=_blank><SPAN style="FONT-SIZE: 14px; FONT-WEIGHT: bold; LINE-HEIGHT: 17px"><SPAN style="FONT-SIZE: 16px; LINE-HEIGHT: 20px" target="_blank"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">The City of Chicago</SPAN></SPAN></SPAN></A><BR>
-<LI><A href="http://media.webon.lycos.com/1426770/403956.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Southern Cook County</SPAN><BR></SPAN></A>
-<LI><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><A href="http://media.webon.lycos.com/1426770/403960.doc" target=_blank><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><SPAN class=WEBON_FONT style="FONT-FAMILY: Tahoma,Geneva,sans-serif">L</SPAN><SPAN class=WEBON_FONT style="FONT-FAMILY: Trebuchet MS,Helvetica,sans-serif">a</SPAN><SPAN class=WEBON_FONT style="FONT-FAMILY: Trebuchet MS,Helvetica,sans-serif">k</SPAN><SPAN class=WEBON_FONT style="FONT-FAMILY: Trebuchet MS,Helvetica,sans-serif">e County</SPAN></SPAN></SPAN></A><BR></SPAN>
-<LI><A href="http://media.webon.lycos.com/1426770/403953.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">DuPage County</SPAN><BR></SPAN></A>
-<LI><A href="http://media.webon.lycos.com/1426770/404062.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Kane County</SPAN><BR></SPAN></A>
-<LI><A href="http://media.webon.lycos.com/1426770/404462.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Will County</SPAN></SPAN></A><BR>
-<LI><A href="http://media.webon.lycos.com/1426770/403967.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">The Quad Cities and Rock Island County</SPAN><BR></SPAN></A>
-<LI><A href="http://media.webon.lycos.com/1426770/403962.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">The City of Decatur and Macon County</SPAN><BR></SPAN></A>
-<LI><A href="http://media.webon.lycos.com/1426770/403952.pdf" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">The City of Springfield and Sangamon County</SPAN><BR></SPAN></A>
-<LI><A href="http://media.webon.lycos.com/1426770/403945.doc" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Champaign and Vermillion County</SPAN><BR></SPAN></A>
-<LI><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><A href="http://media.webon.lycos.com/1426770/584788.doc" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">The City of Peoria and Peoria County</SPAN></A></SPAN>
-<LI><A href="http://media.webon.lycos.com/1426770/546994.pdf" target=_blank><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Madison &amp; St Clair County (East St Louis Area</SPAN></SPAN></A>
-<LI><SPAN style="FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px"><SPAN><A href="http://media.webon.lycos.com/1426770/403958.doc" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Williamson and Jefferson Counties (Mt Vernon and Marion, IL)</SPAN></A></SPAN></SPAN><BR></LI></UL>
-<P></P>
-<P><BR></P>
-<P></P>
-<P><BR></P>
-<DIV class=clr></DIV>
+
+[Re-Entry Planning Grant Initiative]: http://documents.csh.org/documents/il/partners.pdf
+[Corporation for Supportive Housing (CSH)]: http://www.csh.org/
+[Illinois Returning Home Initiative]: http://www.csh.org/index.cfm?fuseaction=Page.viewPage&pageId=4469
+[Metropolis 2020]: http://www.chicagometropolis2020.org/
+[Statewide Collaborative on Re-Entry]: http://media.webon.lycos.com/1426770/519451.doc
+[PowerPoint presentation]: http://media.webon.lycos.com/1426770/519452.ppt
+[The City of Chicago]: http://media.webon.lycos.com/1426770/403951.doc
+[Southern Cook County]: http://media.webon.lycos.com/1426770/403956.doc
+[Lake County</SPAN></SPAN></SPAN>]: http://media.webon.lycos.com/1426770/403960.doc
+[DuPage County]: http://media.webon.lycos.com/1426770/403953.doc
+[Kane County]: http://media.webon.lycos.com/1426770/404062.doc
+[Will County]: http://media.webon.lycos.com/1426770/404462.doc
+[The Quad Cities and Rock Island County]: http://media.webon.lycos.com/1426770/403967.doc
+[The City of Decatur and Macon County]: http://media.webon.lycos.com/1426770/403962.doc
+[The City of Springfield and Sangamon County]: http://media.webon.lycos.com/1426770/403952.pdf
+[Champaign and Vermillion County]: http://media.webon.lycos.com/1426770/403945.doc
+[The City of Peoria and Peoria County]: http://media.webon.lycos.com/1426770/584788.doc
+[Madison &amp; St Clair County (East St Louis Area]: http://media.webon.lycos.com/1426770/546994.pdf
+[Williamson and Jefferson Counties (Mt Vernon and Marion, IL)]: http://media.webon.lycos.com/1426770/403958.doc

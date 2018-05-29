@@ -1,13 +1,10 @@
 http://www.reentryillinois.net/Overviewsexoffenderpolicy.html
-<H1 style="TEXT-ALIGN: center"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: rgb(0,128,192)">Issues Involved with Sex Offender Re-Entry</SPAN></H1>
-<P>&nbsp;</P>
-<P><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">A person labeled as a sex offender has many additional challenges in successfully reintegrating back into society.&nbsp;Public policy and legislation has led to many additional restrictions in housing and employment based on public fear and often not supported by research.&nbsp;The sex offender registry, while potentially a useful tool, is overly broad and includes a large number of people for whom provide society little risk.&nbsp;This has resulted nationally in resources devoted disproportionately to an entire&nbsp;class of individuals when targeted resources might be more effective in promoting safe more effective outcomes for this group. For more information and discussion about this subject, one can read <A href="http://www.casomb.org/docs/Housing%202008%20Rev%201%205%20FINAL.pdf" target=_blank>this report</A> from th<SPAN class=WEBON_FONT style="FONT-FAMILY: Arial,Helvetica,Sans-serif">e </SPAN></SPAN><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><SPAN class=WEBON_FONT style="FONT-FAMILY: Arial,Helvetica,Sans-serif">California Sex Offender Management Board</SPAN></SPAN><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><SPAN class=WEBON_FONT style="FONT-FAMILY: Arial,Helvetica,Sans-serif">.&nbsp;</SPAN> While it</SPAN> contains California specific information, it also contains a concise overview of national statistics (pg 38) and information about research, national policy issues, and housing.</SPAN><BR></P>
-<P><BR></P>
-<P style="TEXT-ALIGN: left"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">1. For Illinois specific information, you can go to the <A href="http://www.illinoisattorneygeneral.gov/communities/somb/index.html" target=_blank>Illinois Sex Offenders Management Board</A><A href="http://www.illinoisattorneygeneral.gov/communities/somb/index.html"><BR></A></SPAN></P>
-<P style="TEXT-ALIGN: left"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">2. You may also go to the national <A href="http://www.csom.org/about/about.html" target=_blank>Center on Sex Offender Management Board</A></SPAN><BR></P>
-<P style="TEXT-ALIGN: left"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">3. For a web site devoted to changing laws affecting sex offenders, go to the <A href="http://sexoffenderissues.blogspot.com/2007/05/introduction.html" target=_blank>Sex Offender Issues Blog</A><BR></SPAN></P>
-<P style="TEXT-ALIGN: left"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">4. The Federal Government has recently set up a central registry called the <A href="http://www.nsopw.gov/%28X%281%29S%28ppvbht45ghilkw45mfztya45%29%29/Core/Conditions.aspx?AspxAutoDetectCookieSupport=1" target=_blank>SMART site</A>.<BR></SPAN></P>
-<P style="TEXT-ALIGN: left"><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">5. Here is a <A href="http://www.jjay.cuny.edu/centersinstitutes/pri/events/020108No_EasyAnswers/Bibliography020108.pdf" target=_blank>list of resources</A> for those interested in this subject published by John Jay University.</SPAN><A href="http://sexoffenderissues.blogspot.com/2007/05/introduction.html"><BR></A></P>
-<P style="TEXT-ALIGN: left">&nbsp;</P>
-<P><BR><BR></P>
-<DIV class=clr></DIV>
+
+[this report]: http://www.casomb.org/docs/Housing%202008%20Rev%201%205%20FINAL.pdf
+[Illinois Sex Offenders Management Board]: http://www.illinoisattorneygeneral.gov/communities/somb/index.html
+[]: http://www.illinoisattorneygeneral.gov/communities/somb/index.html
+[Center on Sex Offender Management Board]: http://www.csom.org/about/about.html
+[Sex Offender Issues Blog]: http://sexoffenderissues.blogspot.com/2007/05/introduction.html
+[SMART site]: http://www.nsopw.gov/%28X%281%29S%28ppvbht45ghilkw45mfztya45%29%29/Core/Conditions.aspx?AspxAutoDetectCookieSupport=1
+[list of resources]: http://www.jjay.cuny.edu/centersinstitutes/pri/events/020108No_EasyAnswers/Bibliography020108.pdf
+[]: http://sexoffenderissues.blogspot.com/2007/05/introduction.html

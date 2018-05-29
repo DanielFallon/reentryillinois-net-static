@@ -1,15 +1,11 @@
 http://www.reentryillinois.net/court-order.html
-<P class=MsoNormal style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><SPAN style="FONT-SIZE: 20px; FONT-FAMILY: Arial; FONT-WEIGHT: bold; COLOR: rgb(0,128,192); LINE-HEIGHT: 25px">Court Records</SPAN></P>
-<P class=MsoNormal style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><BR></P>
-<P></P>
-<P style="TEXT-ALIGN: center"><A href="EstablishingIdentity.html"><SPAN style="FONT-WEIGHT: bold"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Click here return to Establishing Your Identity page</SPAN></SPAN></A>&nbsp;<A href="EstablishingIdentity.html"> </A></P>
-<P></P>
-<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: Arial; COLOR: rgb(0,0,0)"><SPAN style="FONT-WEIGHT: normal"><BR></SPAN></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: Arial; COLOR: rgb(0,0,0)"><SPAN style="FONT-WEIGHT: normal">Court records in Illinois can be from a state court or a federal court.<SPAN>&nbsp; </SPAN>Documents with your name on them may be used to establish identity at the </SPAN><A href="http://www.cyberdriveillinois.com/departments/drivers/facilities/home.html" target=_blank><SPAN style="FONT-WEIGHT: normal"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Secretary of State Facilities</SPAN></SPAN></A><SPAN style="FONT-WEIGHT: normal"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"> </SPAN>for </SPAN><A href="http://www.cyberdriveillinois.com/departments/drivers/drivers_license/acceptable_id.html" target=_blank><SPAN style="FONT-WEIGHT: normal"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Category A</SPAN></SPAN></A><SPAN style="FONT-WEIGHT: normal"> <SPAN class=WEBON_COLOR style="COLOR: rgb(0,0,0)">i</SPAN><SPAN class=WEBON_COLOR style="COLOR: rgb(0,0,0)">n</SPAN> order to get a State ID or Driver?s License. </SPAN></SPAN></P>
-<P></P>
-<P>&nbsp; <BR></P>
-<P></P>
-<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN lang=en style="FONT-SIZE: 11pt; FONT-FAMILY: Arial; COLOR: rgb(0,0,0)"><SPAN style="FONT-WEIGHT: bold"><SPAN style="FONT-WEIGHT: normal">The State of <SPAN>Illinois</SPAN> is divided into 22 judicial <SPAN>circuits</SPAN>, Circuits 1-21 and the </SPAN></SPAN><A href="http://www.cookcountyclerkofcourt.org/?section=HomePage" target=_blank><SPAN style="FONT-WEIGHT: bold"><SPAN style="FONT-WEIGHT: normal"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Circuit Court of Cook County</SPAN></SPAN></SPAN></A><SPAN style="FONT-WEIGHT: bold"><SPAN style="FONT-WEIGHT: normal">.</SPAN></SPAN></SPAN><SPAN style="FONT-WEIGHT: bold"><SPAN style="FONT-WEIGHT: normal"><SPAN lang=en style="FONT-SIZE: 11pt; FONT-FAMILY: Arial; COLOR: rgb(0,0,0)"><SPAN>&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: Arial; COLOR: rgb(0,0,0)">Documents for cases in Cook County can be obtained<SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"> </SPAN><A href="http://www.cookcountyclerkofcourt.org/?section=RecArchivePage" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">here</SPAN></A><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">.</SPAN><SPAN> </SPAN>Click <A href="http://www.state.il.us/court/CircuitCourt/default.asp" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">here</SPAN></A> to get more information about the other 21 circuits. <SPAN>&nbsp; In Cook County, you can&nbsp;view criminal records at any Clerk of the Circuit Court Office at each of the Criminal Court branches and learn more about your case.&nbsp;For most records, you can get printed copies at $2.00 per page.&nbsp;</SPAN>If your court case was federal, you might be able to obtain those records <A href="http://www.archives.gov/great-lakes/public/courts-chicago.html" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">here</SPAN></A>.</SPAN>&nbsp;</SPAN></SPAN></P>
-<P></P>
-<P class=MsoNormal style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><A href="EstablishingIdentity.html"></A></P><A href="EstablishingIdentity.html"></A>
-<DIV class=clr></DIV>
+
+[Click here return to Establishing Your Identity page]: about:EstablishingIdentity.html
+[Secretary of State Facilities]: http://www.cyberdriveillinois.com/departments/drivers/facilities/home.html
+[Acceptable Id]: http://www.cyberdriveillinois.com/departments/drivers/drivers_license/acceptable_id.html
+[Circuit Court of Cook County]: http://www.cookcountyclerkofcourt.org/?section=HomePage
+[here]: http://www.cookcountyclerkofcourt.org/?section=RecArchivePage
+[here]: http://www.state.il.us/court/CircuitCourt/default.asp
+[here]: http://www.archives.gov/great-lakes/public/courts-chicago.html
+[]: about:EstablishingIdentity.html
+[]: about:EstablishingIdentity.html

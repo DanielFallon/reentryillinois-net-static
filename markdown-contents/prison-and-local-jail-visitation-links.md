@@ -1,24 +1,22 @@
 http://www.reentryillinois.net/prison-and-local-jail-visitation-links.html
-<H1 style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><SPAN style="FONT-SIZE: 16px; FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0)"><SPAN style="FONT-SIZE: 22px; FONT-FAMILY: 'Trebuchet MS',Helvetica,sans-serif; LINE-HEIGHT: 27px"><SPAN style="COLOR: rgb(0,128,192)"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif">Local Jail Visitation Links</SPAN></SPAN></SPAN></SPAN></H1>
-<P></P>
-<P style="TEXT-ALIGN: left">&nbsp;<SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><BR></SPAN></P>
-<P style="TEXT-ALIGN: left"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Below is a list of local county jails with links to their visitation policies and/or visitation contact information.</SPAN><A href="http://www.cookcountysheriff.org/doc/doc_visitationmain.html" target=_blank><BR></A></P>
-<UL style="FONT-SIZE: 12px">
-<LI><A href="http://www.cookcountysheriff.org/doc/doc_visitationmain.html" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Cook County Jail</SPAN></A>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><A href="http://www.co.dupage.il.us/sheriff/jail.htm" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">DuPage County Jail<BR></SPAN></A></SPAN>
-<LI><A href="http://www.lakecountyil.gov/Sheriff/how/LocateInmate.htm" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Lake County Jail<BR></SPAN></A>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://www.willcosheriff.org/pages/adf/visitation.html" target=_blank>Will County Jail<BR></A></SPAN></SPAN>
-<LI><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://www.co.champaign.il.us/shoff/contact.htm" target=_blank>Champaign County Jail</A></SPAN>
-<LI><A href="http://www.vermilionsheriff.org/" target=_blank></A><A href="http://www.vermilionsheriff.org/" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Vermilion County Jail<BR></SPAN></A>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://www.kankakeecountysheriff.com/jailinfo.htm" target=_blank>Kankakee County Jail<BR></A></SPAN></SPAN>
-<LI><A href="http://www.kanesheriff.com/jail/default.aspx" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Kane County Jail</SPAN></A><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"> - Visitation brochure in </SPAN><A href="http://www.kanesheriff.com/jail/detaineeInformation/infoBrochure.pdf" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">English</SPAN></A><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"> or </SPAN><A href="http://www.kanesheriff.com/jail/detaineeInformation/infoBrochureSP.pdf" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Spanish</SPAN></A><BR>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://www.co.rock-island.il.us/Sheriff/InmateServices/" target=_blank>Rock Island County Jail<BR></A></SPAN></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://sheriff.co.sangamon.il.us/jail101.htm" target=_blank>Sangamon County Jail</A></SPAN></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://members.ll.net/dare/cordivv.htm" target=_blank>Williamson County Jail</A></SPAN></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px"><A href="http://www.winnebagosheriff.com/index.php?option=com_content&amp;task=view&amp;id=34&amp;Itemid=53" target=_blank>Winnebago County Jail</A></SPAN></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><A href="http://www.co.madison.il.us/Sheriff/JailDivision.shtml" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Madison County Jail<BR></SPAN></A></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><A href="http://www.mysheriff.us/corrections-division.html" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">St. Clair County Jail<BR></SPAN></A></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><A href="http://www.peoriacounty.org/sheriff/jailinmate" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Peoria County Jail<BR></SPAN></A></SPAN>
-<LI><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><A href="http://www.sheriff-macon-il.us/Corrections.html" target=_blank><SPAN class=WEBON_SIZE style="FONT-SIZE: 14px">Macon County Jail</SPAN></A></SPAN><BR></LI></UL>
-<P></P>
-<DIV class=clr></DIV>
+
+[]: http://www.cookcountysheriff.org/doc/doc_visitationmain.html
+[Cook County Jail]: http://www.cookcountysheriff.org/doc/doc_visitationmain.html
+[DuPage County Jail]: http://www.co.dupage.il.us/sheriff/jail.htm
+[Lake County Jail]: http://www.lakecountyil.gov/Sheriff/how/LocateInmate.htm
+[Will County Jail]: http://www.willcosheriff.org/pages/adf/visitation.html
+[Champaign County Jail]: http://www.co.champaign.il.us/shoff/contact.htm
+[]: http://www.vermilionsheriff.org/
+[Vermilion County Jail]: http://www.vermilionsheriff.org/
+[Kankakee County Jail]: http://www.kankakeecountysheriff.com/jailinfo.htm
+[Kane County Jail]: http://www.kanesheriff.com/jail/default.aspx
+[English]: http://www.kanesheriff.com/jail/detaineeInformation/infoBrochure.pdf
+[Spanish]: http://www.kanesheriff.com/jail/detaineeInformation/infoBrochureSP.pdf
+[Rock Island County Jail]: http://www.co.rock-island.il.us/Sheriff/InmateServices/
+[Sangamon County Jail]: http://sheriff.co.sangamon.il.us/jail101.htm
+[Williamson County Jail]: http://members.ll.net/dare/cordivv.htm
+[Winnebago County Jail]: http://www.winnebagosheriff.com/index.php?option=com_content&task=view&id=34&Itemid=53
+[Madison County Jail]: http://www.co.madison.il.us/Sheriff/JailDivision.shtml
+[St. Clair County Jail]: http://www.mysheriff.us/corrections-division.html
+[Peoria County Jail]: http://www.peoriacounty.org/sheriff/jailinmate
+[Macon County Jail]: http://www.sheriff-macon-il.us/Corrections.html

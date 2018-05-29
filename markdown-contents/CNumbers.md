@@ -1,10 +1,5 @@
 http://www.reentryillinois.net/CNumbers.html
-<H1 style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: rgb(0,128,192)"><SPAN>Re-Entry Issues for those with C-Numbers</SPAN><BR></SPAN></H1>
-<P><BR></P>
-<P><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">All persons currently sentenced in Illinois are given a fixed sentence.&nbsp; This sentence includes the possibility of a "mandatory supervised release" commonly referred to as parole.<BR></SPAN></P>
-<P><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px"><BR></SPAN></P>
-<P><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">Prior to 1978, people were given an indeterminate sentence and were released&nbsp;only&nbsp;after a parole hearing with the parole board.&nbsp; There are currently about 300 persons in Illinois prisons sentenced under the old system awaiting release. Much has been written about this group by advocates working for their release.</SPAN><BR></P>
-<P><BR><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">Most recently, the John Howard Association has written about this issue in a paper entitled, <SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><A href="http://blogs.chicagotribune.com/files/setting-the-record-straight.pdf" target=_blank>To Set the Record Straight</A></SPAN><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">.&nbsp;&nbsp;&nbsp;</SPAN></SPAN><BR></P>
-<P><BR><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">There are also numerous advocacy groups helping this group and advocating how to assist in the process of release. One is the <A href="http://www.prairiefire.org/C_Number_Campaign/Contents.shtml" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Campaign in Support of C Number Prisoners</SPAN></A><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">. </SPAN></SPAN><BR></P>
-<P><BR><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">For more information about this group you can also go the<SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"> </SPAN><A href="http://www.idoc.state.il.us/subsections/faq/default.shtml#04" target=_blank><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)">Illinois Department of Corrections</SPAN></A> Web Site.</SPAN></P>
-<DIV class=clr></DIV>
+
+[To Set the Record Straight]: http://blogs.chicagotribune.com/files/setting-the-record-straight.pdf
+[Campaign in Support of C Number Prisoners]: http://www.prairiefire.org/C_Number_Campaign/Contents.shtml
+[Illinois Department of Corrections]: http://www.idoc.state.il.us/subsections/faq/default.shtml#04
