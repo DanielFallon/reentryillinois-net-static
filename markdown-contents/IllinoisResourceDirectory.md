@@ -1,3 +1,4 @@
+http://www.reentryillinois.net/IllinoisResourceDirectory.html
 <H1 style="TEXT-ALIGN: center"><SPAN style="COLOR: rgb(255,0,0); TEXT-ALIGN: center"><SPAN style="COLOR: rgb(255,0,0)"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif"><A href="http://www.venturecd.net/ResourceDirectory/dirDisplay_Map.asp?ref=1234">Illinois Re-Entry Resources Directory</A></SPAN></SPAN></SPAN></H1>
 <P></P>
 <P style="TEXT-ALIGN: center"><SPAN class=WEBON_COLOR style="COLOR: rgb(0,102,255)">&nbsp;</SPAN></P>

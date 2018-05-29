@@ -1,3 +1,4 @@
+http://www.reentryillinois.net/FindingHousing.html
 <H1 style="TEXT-ALIGN: center"><SPAN style="COLOR: rgb(0,128,192)"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif">Getting Housing</SPAN></SPAN><BR></H1>
 <P>&nbsp; <BR></P>
 <P style="TEXT-ALIGN: left"><SPAN><SPAN style="FONT-SIZE: 14px; FONT-FAMILY: Arial,Helvetica,sans-serif; LINE-HEIGHT: 17px">There can be no return to the community without some place to stay. Persons leaving the prison or jail need&nbsp;a place to stay that is affordable, safe, and with sufficient supports to&nbsp;make a successful transition into the community.</SPAN><BR></SPAN></P>

@@ -1,3 +1,4 @@
+http://www.reentryillinois.net/GettingWork.html
 <H1 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 22px; COLOR: rgb(0,128,192); LINE-HEIGHT: 27px"><SPAN style="FONT-FAMILY: Arial,Helvetica,sans-serif">Getting a Job</SPAN></SPAN></H1>
 <P>&nbsp;</P>
 <P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><SPAN style="FONT-SIZE: 16px; COLOR: rgb(0,0,0)"><SPAN><SPAN style="FONT-SIZE: 14px; LINE-HEIGHT: 17px"><A href="employment.html"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG><SPAN class=WEBON_SIZE style="FONT-SIZE: 12px">Click here for Employment - Finding a Job</SPAN></STRONG></SPAN></A><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG></STRONG></SPAN></SPAN></SPAN></SPAN></SPAN><A href="education.html"><SPAN class=WEBON_COLOR style="COLOR: rgb(51,102,153)"><STRONG><SPAN class=WEBON_SIZE style="FONT-SIZE: 12px"> </SPAN><BR></STRONG></SPAN></A></P>
