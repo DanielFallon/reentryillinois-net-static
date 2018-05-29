@@ -1,5 +1,3 @@
-http://www.reentryillinois.net/GettingServices.html
-
 # Getting Support Services
 
 Here are the facts: There are 66,000 people in prison and jail right now in Illinois . There are only 2 people  in most prisons whose job is to work on discharge planning (Field Services). You will not be viewed as a profitable client as you will have trouble with identification, funding, and community support. You have been accused of a crime, living away from home, and many law abiding citizens can not get services.
