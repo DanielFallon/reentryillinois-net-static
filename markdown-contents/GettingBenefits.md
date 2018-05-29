@@ -1,5 +1,3 @@
-http://www.reentryillinois.net/GettingBenefits.html
-
 # Getting Public Benefits
 
 ## Take a Quick Survey
