@@ -1,5 +1,3 @@
-http://www.reentryillinois.net/establish-identity-birth-certificate.html
-
 # Birth Certificate
 
 **[Click here to return to Establishing Your Identity]**
