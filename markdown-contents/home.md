@@ -11,7 +11,7 @@ The site is being developed through a grant from the [Corporation for Supportive
 Additional partners will include the City of Chicago, the Office of the Sheriff of Cook County, the Office of the President of Cook County, and the Illinois Department of Corrections.
 
 [see-reports-img]: ./images/home-see-reports.jpg
-[see-reports]: index-2.html
+[see-reports]: ./index-2.html
 [Corporation for Supportive Housing]: http://www.csh.org/
 [Chicago Metropolis 2020]: http://www.chicagometropolis2020.org/
 [ Illinois Resource Directory]: http://www.venturecd.net/ResourceDirectory/dirDisplay_Map.asp?ref=1234

@@ -8,7 +8,7 @@ You may find out what public benefits and assistance you are eligible for by com
 
 ## Social Security
 
-If you may be eligible, it is important that you apply immediately for Social Security .  You may find out about this program on the Social Security website at www.ssa.gov  In some cases, you may be able to apply for a disability determination while still in custody if you work closely with your field service worker. Social Security can come on site to the Prison to begin an application prior to release. After release, you may call 1-800-772-1213, you can speak to a Social Security representative between 7 a.m. and 7 p.m. Monday through Friday. If you are deaf or hard of hearing, call the toll-free TTY number, 1-800-325-0778, between 7 a.m. and 7 p.m. Monday through Friday. 
+If you may be eligible, it is important that you apply immediately for Social Security .  You may find out about this program on the Social Security website at www.ssa.gov  In some cases, you may be able to apply for a disability determination while still in custody if you work closely with your field service worker. Social Security can come on site to the Prison to begin an application prior to release. After release, you may call 1-800-772-1213, you can speak to a Social Security representative between 7 a.m. and 7 p.m. Monday through Friday. If you are deaf or hard of hearing, call the toll-free TTY number, 1-800-325-0778, between 7 a.m. and 7 p.m. Monday through Friday.
 
 ## Illinois Public Assistance and Food Stamps
 

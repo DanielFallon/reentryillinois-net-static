@@ -14,7 +14,7 @@
 
 [Illinois Department of Corrections Visitation Policies and Procedures]: http://www.idoc.state.il.us/subsections/visitationrules/default.shtml
 [Federal Bureau of Prisons Website]: http://www.bop.gov/
-[Local Jail Visitation Links]: about:prison-and-local-jail-visitation-links.html
+[Local Jail Visitation Links]: ./prison-and-local-jail-visitation-links.html
 [Lutheran Social Services of Illinois]: http://www.lssi.org/Service/PrisonerAndFamilyMinistryOverview.aspx
 [Guide for Families of the Arrested and Incarcerated]: http://documents.csh.org/documents/il/Reentryillinois/Arrested-Guideforfamilies.pdf
 [Families Deal with Prison in Illinois Guide]: http://media.webon.lycos.com/1426770/468575.pdf

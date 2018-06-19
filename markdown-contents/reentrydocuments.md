@@ -30,11 +30,9 @@ This 215-page report examines how prisons are dangerous and damaging places for 
 
 ## [No-Entry: Improving Public Safety Through Cost-Effective to Incarceration in Illinois]
 
-
 This paper published by the Center for Health and Justice proposes providing treatment, community supervision and sanctions for drug-involved individuals to help increase the likelihood of long-term improvements, stability, public safety, and fiscal accountability. It also discusses in detail the effects of current incarceration policies on individual communities.
 
 ## [Life After Lock-Up: Improving Reentry from Jail to the Community]
-
 
 In an effort to build knowledge on the topic, in 2005, the U.S. Department of Justice’s Bureau of Justice Assistance invested in the Jail Reentry Roundtable Initiative, a joint project of the Urban Institute, John Jay College of Criminal Justice, and the Montgomery County ( Maryland ) Department of Correction and Rehabilitation. They have commissioned seven papers, convened a Jail Reentry Roundtable and two national advisory meetings, conducted a “scan of practice,” and interviewed dozens of practitioners around the country. This report aims synthesizes what they have learned through these efforts.
 

@@ -36,7 +36,7 @@ The Urban Institute is a nonprofit policy research organization established in W
 
 ## [Mental Health Summit]
 
-The Mental Health Summit is a coalition comprised of persons with mental illness and their families, advocacy groups, and mental health service providers. The goal of the Summit is to preserve and increase funding of mental health services. 
+The Mental Health Summit is a coalition comprised of persons with mental illness and their families, advocacy groups, and mental health service providers. The goal of the Summit is to preserve and increase funding of mental health services.
 
 [Center for Effective Public Policy]: http://www.cepp.com/
 [Council of State Governments Justice Center]: http://justicecenter.csg.org/

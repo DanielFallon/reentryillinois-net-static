@@ -11,7 +11,7 @@
 - [The Sheriff of Cook County Re-Entry Council]
 - [Waukegan Township Coalition to Reduce Recidivism]
 
-[![Click here to see the reports](images/home-see-reports.jpg)](index-2.html)
+[![Click here to see the reports](images/home-see-reports.jpg)](./index-2.html)
 
 [Chicago Metropolis 2020 Collaborative on Reentry]: http://www.metropolisstrategies.org/Collaborative-ee.html
 [Illinois WorkNet Ex-Offender Services]: http://www2.illinoisworknet.com/

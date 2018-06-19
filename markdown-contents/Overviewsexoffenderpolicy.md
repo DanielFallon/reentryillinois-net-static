@@ -7,7 +7,7 @@ A person labeled as a sex offender has many additional challenges in successfull
 1. For a web site devoted to changing laws affecting sex offenders, go to the Sex Offender Issues Blog
 1. The Federal Government has recently set up a central registry called the [SMART site].
 1. Here is a [list of resources] for those interested in this subject published by John Jay University.
- 
+
 [California Sex Offender Management Board Report]: http://www.casomb.org/docs/Housing%202008%20Rev%201%205%20FINAL.pdf
 [Illinois Sex Offenders Management Board]: http://www.illinoisattorneygeneral.gov/communities/somb/index.html
 [Center on Sex Offender Management Board]: http://www.csom.org/about/about.html
