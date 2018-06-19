@@ -1,12 +1,29 @@
-http://www.reentryillinois.net/prison-and-local-jail-visitation-links.html
+# Local Jail Visitation Links
 
-[]: http://www.cookcountysheriff.org/doc/doc_visitationmain.html
+Below is a list of local county jails with links to their visitation policies and/or visitation contact information.
+
+- [Cook County Jail]
+- [DuPage County Jail]
+- [Lake County Jail]
+- [Will County Jail]
+- [Champaign County Jail]
+- [Vermilion County Jail]
+- [Kankakee County Jail]
+- [Kane County Jail] - Visitation brochure in [English] or [Spanish]
+- [Rock Island County Jail]
+- [Sangamon County Jail]
+- [Williamson County Jail]
+- [Winnebago County Jail]
+- [Madison County Jail]
+- [St. Clair County Jail]
+- [Peoria County Jail]
+- [Macon County Jail]
+
 [Cook County Jail]: http://www.cookcountysheriff.org/doc/doc_visitationmain.html
 [DuPage County Jail]: http://www.co.dupage.il.us/sheriff/jail.htm
 [Lake County Jail]: http://www.lakecountyil.gov/Sheriff/how/LocateInmate.htm
 [Will County Jail]: http://www.willcosheriff.org/pages/adf/visitation.html
 [Champaign County Jail]: http://www.co.champaign.il.us/shoff/contact.htm
-[]: http://www.vermilionsheriff.org/
 [Vermilion County Jail]: http://www.vermilionsheriff.org/
 [Kankakee County Jail]: http://www.kankakeecountysheriff.com/jailinfo.htm
 [Kane County Jail]: http://www.kanesheriff.com/jail/default.aspx

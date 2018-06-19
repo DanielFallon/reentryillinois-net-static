@@ -1,5 +1,3 @@
-http://www.reentryillinois.net/home.html
-
 Re-Entry Illinois is a Free Resource Guide and Information Center
 for those involved with the Criminal Justice System
 =================================================================
