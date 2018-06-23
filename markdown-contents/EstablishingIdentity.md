@@ -1,5 +1,7 @@
 # Establishing Your Identity
 
+## Important Forms of Id
+
 In today’s world, you have to have identification (ID) to do things like cash a check, take a driver’s test, or get a job. The first step in a successful transition back into your community will be having ID so that you can get what you need.  Forms of ID that many places accept are:
 
 - [Birth Certificate]
